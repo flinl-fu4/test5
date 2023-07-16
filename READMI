@@ -5,3 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/flinl-fu4/test5.git
 git push -u origin main
+echo "# test5" >> README.md
